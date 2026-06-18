@@ -1,4 +1,4 @@
-# 💎 Diamond Robotics
+# 💎 DIAMOND Robot'X
 
 ## 🚀 Engineering the Future for Africa and the World
 
