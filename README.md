@@ -95,40 +95,53 @@ The future is being built here.
 <div align="center">
 
 # ◈ W I V E ◈
-### *The Humanoid Robot Born from Nothing.*
+
+#
+
+## *The Humanoid Robot Born from Nothing.*
+
 
 > **"L'avenir n'attend pas. Il se programme."**
 
-![Status](https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-0066FF?style=for-the-badge)
-![Made in Congo](https://img.shields.io/badge/MADE_IN-CONGO_%F0%9F%87%A8%F0%9F%87%AC-009A44?style=for-the-badge)
-![Version](https://img.shields.io/badge/VERSION-PROTOTYPE_1.0-111111?style=for-the-badge)
-![AI](https://img.shields.io/badge/POWERED_BY-AI_%2B_HYDRAULICS-185FA5?style=for-the-badge)
+
 
 `robotics` `humanoid-robot` `hydraulics` `raspberry-pi` `esp32` `artificial-intelligence` `africa` `open-source` `mechatronics` `congo`
 
+
 ---
+
 
 *Un jeune de 19 ans. Aucun financement. Aucun laboratoire.*
 *Juste deux mains, une vision, et deux ans de travail acharné.*
 *Résultat : le premier robot humanoïde hydraulique-IA conçu en Afrique centrale.*
 
+
 ---
+
 
 </div>
 
+
 ## ◈ QU'EST-CE QUE WIVE ?
+
 
 WIVE est un robot humanoïde de **59 cm** à système hybride **hydraulique + intelligence artificielle**, entièrement conçu et fabriqué à la main depuis Brazzaville, République du Congo.
 
+
 Son corps reproduit fidèlement l'anatomie humaine. Son cerveau apprend, décide, et s'adapte en temps réel. Ses muscles ? Du liquide sous pression. Ses os ? Des vérins en acier.
+
 
 > *Ce n'est pas de la science-fiction. C'est du Congo-Brazzaville.*
 
+
 <br/>
+
 
 ## ◈ ARCHITECTURE — SOUS LE CAPOT
 
+
 ```
+
 ┌─────────────────────────────────────────────────┐
 │              🧠  DOUBLE BRAIN SYSTEM             │
 ├────────────────────┬────────────────────────────┤
@@ -139,42 +152,65 @@ Son corps reproduit fidèlement l'anatomie humaine. Son cerveau apprend, décide
 │   probabiliste      │   Gestion hydraulique      │
 │   Apprentissage     │   Sécurité immédiate       │
 │   adaptatif         │   Boucles ultra-rapides    │
+
 └────────────────────┴────────────────────────────┘
 ```
 
+
 <br/>
+
 
 ## ◈ SYSTÈME HYDRAULIQUE — LE SANG DE WIVE
 
+
 | Composant | Specs | Rôle |
+
 |-----------|-------|------|
+
 | 🫙 Réservoir | 150 ml · PETG/ABS · 10×5cm | Stockage du fluide |
+
 | ⚙️ Pompe | 12V DC · Mini gear · 5 bars | Mise en pression |
+
 | 🔀 Valves | Électrovannes directionnelles | Direction du mouvement |
+
 | 🦾 Vérins | Pistons miniatures | Muscles artificiels |
 
+
 > *Le liquide = les muscles. Les pistons = les os et tendons.*
-> *Quand le fluide entre → le membre se plie.*
-> *Quand le fluide sort → le membre se déplie.*
-> *Simple. Puissant. Révolutionnaire à cette échelle.*
+>
+>  *Quand le fluide entre → le membre se plie.*
+>
+>  *Quand le fluide sort → le membre se déplie.*
+>
+>  *Simple. Puissant. Révolutionnaire à cette échelle.*
+
 
 <br/>
+
 
 ## ◈ RÉSEAU DE CAPTEURS — LES SENS DE WIVE
 
+
 ```
+
 ◉ HC-SR04   ──── Vision ultrason       ──── 20–50 ms
+
 ◉ VL53L0X   ──── Précision laser ToF   ──── 10–30 ms
+
 ◉ MPU6050   ──── Équilibre & posture   ────  5–10 ms
+
 ◉ ÉNERGIE   ──── Surveillance batterie ───   500 ms
+
 ```
 
 <br/>
 
+
 ## ◈ ANATOMIE PHYSIQUE
 
-```
-         ╔══════╗
+
+``
+        ╔══════╗
          ║ TÊTE ║  ◄── Caméra · Capteurs · Haut-parleur
          ╚══╦═══╝
          ╔══╩═══╗
@@ -189,16 +225,22 @@ Son corps reproduit fidèlement l'anatomie humaine. Son cerveau apprend, décide
 
      ── 59 cm ──
      Anatomie humaine complète
-     Fabriqué entièrement à la main
+    Fabriqué entièrement à la main
 ```
+
 
 <br/>
 
+
 ## ◈ INTELLIGENCE — LE CERVEAU DE WIVE
 
-WIVE ne se contente pas d'exécuter des commandes. Il **apprend**. Il **s'adapte**. Il **évolue**.
+
+WIVE ne se contente pas d'exécuter des commandes. Il **apprend**. Il
+
+**s'adapte**. Il **évolue**.
 
 ```
+
 🧬 Logique probabiliste
 ⚡ Décision parallèle en temps réel
 🛡️ Sécurité adaptative dynamique
