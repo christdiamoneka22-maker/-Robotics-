@@ -52,12 +52,17 @@ To become one of Africa's leading robotics and AI companie.
 
 Ce projet cherche activement des partenaires visionnaires :
 
+
 | Type | Ce que vous apportez | Ce que vous obtenez |
 |------|---------------------|---------------------|
 | 💰 Investisseur | Financement prototype | Part dans DIAMOND Robot'✖ |
+
 | 🏭 Partenaire industriel | Équipements · Réseau | Co-développement technologie |
+
 | 🎓 Sponsor académique | Bourse · Formation | Impact social · Visibilité |
+
 | 📄 Licencié | Droits technologiques | Système hybride hydraulique-IA |
+
 
 📩 **Contact :** [christdiamoneka22gmail.com]( Whatsapp : +242-06-804-56-84/ Appelle 🤙 : +242-05-592-73-49)
 
@@ -80,7 +85,10 @@ Ce projet cherche activement des partenaires visionnaires :
 </div> 
 
 
-⚡ WIVE — The African Humanoid Robot | Full hydraulic system + Embedded AI | Hand-built from scratch in Congo 🇨🇬 | The future is being built here.
+⚡ WIVE — The African Humanoid Robot |
+Full hydraulic system + Embedded AI |
+Hand-built from scratch in Congo 🇨🇬 |
+The future is being built here.
 
 <div align="center">
 
@@ -89,33 +97,48 @@ Ce projet cherche activement des partenaires visionnaires :
 
 <br/>
 
+
 > **"L'avenir n'attend pas. Il se programme."**
 
+
 <br/>
+
 
 ![Status](https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-0066FF?style=for-the-badge)
+
 ![Made in Congo](https://img.shields.io/badge/MADE_IN-CONGO_🇨🇬-009A44?style=for-the-badge)
+
 ![Version](https://img.shields.io/badge/VERSION-PROTOTYPE_1.0-111111?style=for-the-badge)
+
 ![AI](https://img.shields.io/badge/POWERED_BY-AI_+_HYDRAULICS-185FA5?style=for-the-badge)
 
+
 <br/>
+
 
 robotics  humanoid-robot  hydraulics  raspberry-pi  esp32
 artificial-intelligence  africa  open-source  mechatronics  congo
 
+
 ---
+
 
 *Un jeune de 19 ans. Aucun financement. Aucun laboratoire.*
 *Juste deux mains, une vision, et deux ans de travail acharné.*
 *Résultat : le premier robot humanoïde hydraulique-IA conçu en Afrique centrale.*
 
+
 ---
+
 
 </div>
 
+
 <br/>
 
+
 ## ◈ QU'EST-CE QUE WIVE ?
+
 
 **WIVE** est un robot humanoïde de **59 cm** à système hybride
 **hydraulique + intelligence artificielle**, entièrement conçu
@@ -126,11 +149,15 @@ Son cerveau apprend, décide, et s'adapte en temps réel.
 Ses muscles ? Du liquide sous pression.
 Ses os ? Des vérins en acier.
 
+
 > *Ce n'est pas de la science-fiction. C'est du Congo-Brazzaville.*
+
 
 <br/>
 
+
 ---
+
 
 ## ◈ ARCHITECTURE — SOUS LE CAPOT
 
@@ -146,9 +173,12 @@ Ses os ? Des vérins en acier.
 │   adaptatif        │   Boucles ultra-rapides     │
 └────────────────────┴────────────────────────────┘
 
+
 <br/>
 
+
 ### 💧 SYSTÈME HYDRAULIQUE — LE SANG DE WIVE
+
 
 | Composant | Specs | Rôle |
 |-----------|-------|------|
@@ -157,23 +187,30 @@ Ses os ? Des vérins en acier.
 | 🔀 Valves | Électrovannes directionnelles | Direction du mouvement |
 | 🦾 Vérins | Pistons miniatures | Muscles artificiels |
 
+
 > *Le liquide = les muscles. Les pistons = les os et tendons.*
 > *Quand le fluide entre → le membre se plie.*
 > *Quand le fluide sort → le membre se déplie.*
 > *Simple. Puissant. Révolutionnaire à cette échelle.*
 
+
 <br/>
 
+
 ### 📡 RÉSEAU DE CAPTEURS — LES SENS DE WIVE
+
 
 ◉ HC-SR04   ──── Vision ultrason      ──── 20–50 ms
 ◉ VL53L0X   ──── Précision laser ToF  ──── 10–30 ms  
 ◉ MPU6050   ──── Équilibre & posture  ────  5–10 ms
 ◉ ÉNERGIE   ──── Surveillance batterie ───   500 ms
 
+
 <br/>
 
+
 ### 🦿 ANATOMIE PHYSIQUE
+
 
 ╔══════╗
          ║ TÊTE ║  ◄── Caméra · Capteurs · Haut-parleur
@@ -196,10 +233,12 @@ Ses os ? Des vérins en acier.
 
 ---
 
+
 ## ◈ INTELLIGENCE — LE CERVEAU DE WIVE
 
 WIVE ne se contente pas d'exécuter des commandes.
 Il **apprend**. Il **s'adapte**. Il **évolue**.
+
 
 🧬 Logique probabiliste
 ⚡ Décision parallèle en temps réel  
@@ -207,13 +246,18 @@ Il **apprend**. Il **s'adapte**. Il **évolue**.
 🔄 Mémoire évolutive — chaque action améliore la suivante
 🎯 Multi-missions — marche, interaction, exploration
 
+
 <br/>
+
 
 ---
 
+
 ## ◈ ROADMAP — LA VISION
 
+
 2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━► 2026+
+
 
 [✅] Conception architecture complète
 [✅] Système hydraulique miniature défini  
@@ -229,34 +273,49 @@ Il **apprend**. Il **s'adapte**. Il **évolue**.
 
 # ✦découvre✦
 
+
 ✦ STUDIO M IA — AI Creative Platform | 14 specialized modules | Branding · Logo · Palette · UX · Naming | Powered by Claude Sonnet ∞ Built with love for Marcelle 💜
+
 
 <div align="center">
 
+
 <br/>
 
-```
+
+`
+`
  ░██████╗████████╗██╗   ██╗██████╗ ██╗ ██████╗     ███╗   ███╗    ██╗ █████╗ 
  ██╔════╝╚══██╔══╝██║   ██║██╔══██╗██║██╔═══██╗    ████╗ ████║    ██║██╔══██╗
  ╚█████╗    ██║   ██║   ██║██║  ██║██║██║   ██║    ██╔████╔██║    ██║███████║
   ╚═══██╗   ██║   ██║   ██║██║  ██║██║██║   ██║    ██║╚██╔╝██║    ██║██╔══██║
  ██████╔╝   ██║   ╚██████╔╝██████╔╝██║╚██████╔╝    ██║ ╚═╝ ██║    ██║██║  ██║
- ╚═════╝    ╚═╝    ╚═════╝ ╚═════╝ ╚═╝ ╚═════╝     ╚═╝     ╚═╝    ╚═╝╚═╝  ╚═╝
-```
+ ╚═════╝    ╚═╝    ╚═════╝ ╚═════╝ ╚═╝ ╚═════╝     ╚═╝     ╚═╝    ╚═╝╚═╝  ╚═╝`
+
+`
 
 ### *The AI Creative Studio That Thinks Like an Artist.*
 
+
 <br/>
+
 
 ![LIVE](https://img.shields.io/badge/◈_STATUS-ONLINE_∞-9040D0?style=for-the-badge&labelColor=08070f)
+
 ![CLAUDE](https://img.shields.io/badge/⚡_ENGINE-CLAUDE_SONNET-7B2FBE?style=for-the-badge&labelColor=08070f)
+
 ![MODULES](https://img.shields.io/badge/✦_MODULES-14_IA-DC64AA?style=for-the-badge&labelColor=08070f)
+
 ![LOVE](https://img.shields.io/badge/💜_MADE_FOR-MARCELLE-c070f0?style=for-the-badge&labelColor=08070f)
+
 ![MIT](https://img.shields.io/badge/◎_LICENCE-MIT-6040a0?style=for-the-badge&labelColor=08070f)
+
 
 <br/>
 
-```
+
+`
+``
 ∞ ─────────────────────────────────────────────────────────── ∞
         "La créativité n'a pas de limites. L'IA non plus."
 ∞ ─────────────────────────────────────────────────────────── ∞
@@ -274,16 +333,20 @@ Il **apprend**. Il **s'adapte**. Il **évolue**.
 
 ## ◈ WHAT IS STUDIO M IA ?
 
+
 **Studio M IA** n'est pas une simple app.
+
 
 C'est un **atelier créatif vivant** — une plateforme d'intelligence
 artificielle entièrement dédiée au **design**, au **branding** et à
 **l'identité visuelle**, propulsée par le modèle le plus avancé
 d'Anthropic : **Claude Sonnet**.
 
+
 14 modules IA. Chacun expert dans sa discipline.
 Chacun entraîné pour penser comme un professionnel créatif senior.
 Tous réunis dans une interface dark premium — **pour Marcelle**.
+
 
 > *Ce n'est pas juste un outil.*
 > *C'est une directrice artistique intelligente,*
@@ -291,7 +354,9 @@ Tous réunis dans une interface dark premium — **pour Marcelle**.
 
 <br/>
 
+
 ---
+
 
 ## ◈ THE 14 AI MODULES — YOUR CREATIVE ARSENAL
 
@@ -340,6 +405,7 @@ Tous réunis dans une interface dark premium — **pour Marcelle**.
 ---
 
 ## ◈ FEATURES — CE QUI REND STUDIO M IA UNIQUE
+
 
 ```
 ◉  14 modules IA ────────── chacun expert dans sa discipline
